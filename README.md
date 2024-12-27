@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+## The project's Google maps MAY NOT WORK correctly due to the API key being expired, for proper functioning , please put a valid google cloud api key in the AndroidManifest.xml file located in the android/app/src/main/ directory if you run this project and the google maps fails to load.
 
 This project is a starting point for a Flutter application.
 
